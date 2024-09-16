@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-editorjs-next",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Plugin for Strapi Headless CMS, hiding the standard WYSIWYG editor and replacing it with Editor.js",
   "license": "MIT",
   "scripts": {
