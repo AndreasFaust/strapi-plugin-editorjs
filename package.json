@@ -1,0 +1,34 @@
+{
+  "name": "strapi-plugin-editorjs-next",
+  "version": "0.0.1",
+  "description": "Plugin for Strapi Headless CMS, hiding the standard WYSIWYG editor and replacing it with Editor.js",
+  "strapi": {
+    "icon": "plug",
+    "name": "editorjsnext",
+    "displayName": "EditorJS Next",
+    "description": "Plugin for Strapi Headless CMS, hiding the standard WYSIWYG editor and replacing it with Editor.js",
+    "required": true,
+    "kind": "plugin"
+  },
+  "dependencies": {
+    "@editorjs/checklist": "1.6.0",
+    "@editorjs/code": "2.9.0",
+    "@editorjs/delimiter": "1.4.2",
+    "@editorjs/editorjs": "2.30.6",
+    "@editorjs/embed": "2.7.4",
+    "@editorjs/header": "2.8.7",
+    "@editorjs/image": "2.9.3",
+    "@editorjs/inline-code": "1.5.1",
+    "@editorjs/link": "2.6.2",
+    "@editorjs/list": "1.10.0",
+    "@editorjs/marker": "1.4.0",
+    "@editorjs/paragraph": "2.11.6",
+    "@editorjs/quote": "2.7.2",
+    "@editorjs/raw": "2.5.0",
+    "@editorjs/table": "2.4.1",
+    "@editorjs/warning": "1.4.0",
+    "get-file-object-from-local-path": "1.0.2",
+    "uid": "^2.0.2"
+  },
+  "license": "MIT"
+}
