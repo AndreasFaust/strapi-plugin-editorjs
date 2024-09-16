@@ -33,5 +33,8 @@
     "description": "Plugin for Strapi Headless CMS, hiding the standard WYSIWYG editor and replacing it with Editor.js",
     "required": true,
     "kind": "plugin"
+  },
+  "devDependencies": {
+    "release-it": "^17.6.0"
   }
 }
